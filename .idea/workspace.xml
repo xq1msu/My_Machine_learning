@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="62506409-a299-421a-a924-939d91423a67" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistic Regression/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Logistic Regression/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistic Regression/Untitled1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Logistic Regression/Untitled1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP/Untitled1-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MLP/Untitled1-Copy1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655957467788</updated>
       <workItem from="1655957469945" duration="1913000" />
-      <workItem from="1656028309577" duration="11011000" />
+      <workItem from="1656028309577" duration="12983000" />
     </task>
     <servers />
   </component>
